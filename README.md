@@ -16,5 +16,5 @@ Demo of the application.
 
 ## Authors
 
-- Ahmad Nurul Furqon/19.0504.0010
-- [Ahmad Nurul Furqon](https://www.instagram.com/rafly.lock/) (Instagram) 
+- Muhammad Rafly/19.0504.0010
+- Muhammad Rafly (https://www.instagram.com/rafly.lock/) (Instagram) 
