@@ -21,5 +21,5 @@ A brief description of what this project does and who it's for
 
 ## Authors
 
-- Muhammad Rafly/19.0504.0010
+- Muhammad Rafly 19.0504.0010
 - Muhammad Rafly (https://www.instagram.com/rafly.lock/) (Instagram) 
