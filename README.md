@@ -15,7 +15,7 @@ A brief description of what this project does and who it's for
 
 
 ![Logo](https://github.com/raflylock/Rafly-Store-/blob/b7d63c1e8c82a70b0b41975b1b8a084b40d077b7/1.jpg)
-
+![Logo](https://github.com/raflylock/Rafly-Store-/blob/f1beb460be740313e60d26a711836b45c5892689/2.jpg)
 
 
 
